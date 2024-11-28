@@ -39,7 +39,7 @@ A modern implementation of the classic Tetris game built with Flutter. This proj
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/flutter-tetris.git
+   git clone https://github.com/Cod-e-Codes/flutter-tetris.git
    cd flutter-tetris
    ```
 
